@@ -1,0 +1,33 @@
+img { 
+    width: 700px;
+}
+body {
+    background-color: Turquoise;
+}
+h2 {
+    font-family: 'Comfortaa', cursive; 
+}
+h2 { 
+    background-color: cyan;
+}
+h3 {
+    font-family: 'Chakra Petch', sans-serif;
+}
+h3 {
+    color: red;
+}
+ol {
+   font-family: 'Architects Daughter', cursive;
+}
+a {
+   font-family: 'Architects Daughter', cursive;
+}
+p {
+   font-family: 'Architects Daughter', cursive; 
+}
+ul {
+   font-family: 'Architects Daughter', cursive; 
+}
+p {
+   font-family: 'Architects Daughter', cursive; 
+}
